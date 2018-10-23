@@ -15,3 +15,6 @@ These credentials are mainteined and granted by the [Smart City Lab](http://smar
 
 ## Authors ##
 Luca Calderoni, Antonio Magnani - Università di Bologna (Italy)
+
+## License ##
+To do...
