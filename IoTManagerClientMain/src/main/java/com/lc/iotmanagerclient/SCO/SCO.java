@@ -76,12 +76,12 @@ public abstract class SCO implements Parcelable{
 				return R.drawable.ic_smart_user;
 			case SCOTc.SCO_ID:
 				return R.drawable.ic_smart_tc;
-			case SCOArLu.SCO_ID:
-				return R.drawable.ic_smart_arlu;
-			case SCOLamp.SCO_ID:
-				return R.drawable.ic_smart_lamp;
-			case SCOUdooWhst.SCO_ID:
-				return R.drawable.ic_smart_udoowhst;
+			/*case SCOArLu.SCO_ID:
+				return R.drawable.ic_smart_arlu;*/
+			/*case SCOLamp.SCO_ID:
+				return R.drawable.ic_smart_lamp;*/
+			/*case SCOUdooWhst.SCO_ID:
+				return R.drawable.ic_smart_udoowhst;*/
 			default:
 				return R.drawable.ic_smart_default;
 		}
@@ -103,7 +103,7 @@ public abstract class SCO implements Parcelable{
 					default:
 						return false;
 				}
-			case SCOArLu.SCO_ID:
+			/*case SCOArLu.SCO_ID:
 				switch (stato) {
 					case 0:
 						return true;
@@ -111,8 +111,8 @@ public abstract class SCO implements Parcelable{
 						return true;
 					default:
 						return false;
-				}
-			case SCOLamp.SCO_ID:
+				}*/
+			/*case SCOLamp.SCO_ID:
 				switch (stato) {
 					case 0:
 						return true;
@@ -122,14 +122,14 @@ public abstract class SCO implements Parcelable{
 						return true;
 					default:
 						return false;
-				}
-			case SCOUdooWhst.SCO_ID:
+				}*/
+			/*case SCOUdooWhst.SCO_ID:
 				switch (stato) {
 					case 0:
 						return true;
 					default:
 						return false;
-				}
+				}*/
 			default:
 				switch (stato) {
 					case 0:

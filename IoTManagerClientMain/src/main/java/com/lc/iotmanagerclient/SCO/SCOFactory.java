@@ -40,12 +40,12 @@ public class SCOFactory{
 		switch(idCategoria){
 		case 1:
 			return new SCOTc(parsed_json);
-		case 2:
-			return new SCOArLu(parsed_json);
-		case 3:
-			return new SCOLamp(parsed_json);
-		case 6:
-			return new SCOUdooWhst(parsed_json);
+		/*case 2:
+			return new SCOArLu(parsed_json);*/
+		/*case 3:
+			return new SCOLamp(parsed_json);*/
+		/*case 6:
+			return new SCOUdooWhst(parsed_json);*/
 		default:
 			return new SCODefault(parsed_json);
 		}
