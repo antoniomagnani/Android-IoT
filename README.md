@@ -1,4 +1,4 @@
-# Android-IoT (v0.2.0)
+# Android-IoT
 [![Build Status](https://travis-ci.com/antoniomagnani/Android-IoT.svg?branch=master)](https://travis-ci.com/antoniomagnani/Android-IoT)
 
 An Android Client for the IoT Manager framework.
