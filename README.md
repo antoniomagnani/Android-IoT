@@ -17,4 +17,4 @@ These credentials are mainteined and granted by the [Smart City Lab](http://smar
 Luca Calderoni, Antonio Magnani - Università di Bologna (Italy)
 
 ## License ##
-To do...
+The source code is released under the terms of the GNU Lesser General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version. Please refer to the included files [COPYING](COPYING) and [COPYING.LESSER](COPYING.LESSER).
