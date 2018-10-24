@@ -44,8 +44,8 @@ public class SCOFactory{
 			return new SCOArLu(parsed_json);*/
 		/*case 3:
 			return new SCOLamp(parsed_json);*/
-		/*case 6:
-			return new SCOUdooWhst(parsed_json);*/
+		case 6:
+			return new SCOUdooWhst(parsed_json);
 		default:
 			return new SCODefault(parsed_json);
 		}
