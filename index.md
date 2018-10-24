@@ -1,5 +1,6 @@
 # Android-IoT
 An Android Client for the IoT Manager framework.
+The latest release can be [downloaded here](https://github.com/antoniomagnani/Android-IoT/releases)
 
 ## Synopsis ##
 IoT Manager is a general framework which allows users to deal with heterogeneous sensor networks within the smart city context.
