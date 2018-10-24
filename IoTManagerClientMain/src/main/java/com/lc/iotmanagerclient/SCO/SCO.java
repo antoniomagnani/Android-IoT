@@ -57,10 +57,10 @@ public abstract class SCO implements Parcelable{
 				return R.drawable.ic_smart_user;
 			case SCOTc.SCO_ID:
 				return R.drawable.ic_smart_tc;
-			/*case SCOArLu.SCO_ID:
-				return R.drawable.ic_smart_arlu;*/
-			/*case SCOLamp.SCO_ID:
-				return R.drawable.ic_smart_lamp;*/
+			case SCOArLu.SCO_ID:
+				return R.drawable.ic_smart_arlu;
+			case SCOLamp.SCO_ID:
+				return R.drawable.ic_smart_lamp;
 			case SCOUdooWhst.SCO_ID:
 				return R.drawable.ic_smart_udoowhst;
 			default:
