@@ -1,4 +1,4 @@
-# Android-IoT (v0.1.0)
+# Android-IoT (v0.2.0)
 An Android Client for the IoT Manager framework.
 
 ## Synopsis ##
